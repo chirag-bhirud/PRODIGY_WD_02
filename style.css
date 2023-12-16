@@ -55,7 +55,7 @@ button {
     background-color: #4CAF50; /* Green button color */
     color: #ffffff; /* White text color */
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     transition: background-color 0.3s ease; /* Smooth transition on hover */
 
 }
@@ -71,7 +71,7 @@ button:hover {
     text-align: center;
     background: radial-gradient(circle, #faedcd, #fefae0); /* Radial gradient */
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     color: #ffffff; /* Set text color to white for better contrast */
 }
